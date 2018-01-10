@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FallingBlocksCEP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ColorI" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Cyan</Value>
+    </Setting>
+    <Setting Name="ColorT" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">128, 128, 255</Value>
+    </Setting>
+    <Setting Name="ColorO" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="ColorS" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="ColorJ" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="ColorL" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">255, 192, 128</Value>
+    </Setting>
+    <Setting Name="ColorZ" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Teal</Value>
+    </Setting>
+    <Setting Name="DrawLinesAndLabels" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LabelPieces" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ColorBackground1" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">WhiteSmoke</Value>
+    </Setting>
+    <Setting Name="DebugMap" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ColorBackground2" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">230, 230, 230</Value>
+    </Setting>
+    <Setting Name="DramaticPauseMS" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="DebugPieceLocation" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

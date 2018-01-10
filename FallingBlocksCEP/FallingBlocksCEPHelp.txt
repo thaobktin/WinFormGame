@@ -1,0 +1,7 @@
+﻿Keys: Left, Right Arrows to move piece
+      Up, Down Arrows to Rotate Piece
+      Space Bar To Drop Piece
+Scoring: 100 points for clearing a line;
+      Additional 400 points for clearing
+	  4 lines simultaneously.
+Configuration: see app.config
